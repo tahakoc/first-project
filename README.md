@@ -2,6 +2,6 @@
 
 
 
-### **Markdown ile oluşturduğum dosyanın resmi:**
+### **project picture:**
 
 ![project picture](/tahawebsite.png)
